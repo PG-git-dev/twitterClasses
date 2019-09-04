@@ -239,7 +239,7 @@ namespace twitterClasses
             #endregion
 
             Console.WriteLine($@"Имя: {Name}
-Фамилия: {Surname}
+Фамилия__: {Surname}
 Ник: {NickName}
 Дата рождения: {BirthDay}
 Количество твитов: {TweetsCount}
